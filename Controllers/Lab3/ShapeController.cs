@@ -13,6 +13,7 @@ namespace WebApplication1.Controllers.Lab3
             var rectangle = new Rectangle(23, 23);
             return rectangle.GetArea();
         }
+        [HttpGet]
         public int GetSumArea()
         {
             var rectangle = new Rectangle(3, 3);

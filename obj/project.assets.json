@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\w65562\\Desktop\\LAB_PO2-master\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\w65562\\Desktop\\Lab03\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\w65562\\Desktop\\LAB_PO2-master\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\w65562\\Desktop\\Lab03\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\w65562\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\w65562\\Desktop\\LAB_PO2-master\\obj\\",
+      "outputPath": "C:\\Users\\w65562\\Desktop\\Lab03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\w65562\\AppData\\Roaming\\NuGet\\NuGet.Config",
